@@ -5,7 +5,6 @@ Desenvolvedor Full-Stack
 <div align="center">
   <a href="https://github.com/EngelsAS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelsAS&layout=compact&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngelsAS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Skills:
