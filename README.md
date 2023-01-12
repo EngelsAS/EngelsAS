@@ -4,7 +4,6 @@ Desenvolvedor Full-Stack
 
 <div align="start">
   <a href="https://github.com/EngelsAS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EngelsAS&theme=radical"/>
 </div>
 
 ### Skills:
