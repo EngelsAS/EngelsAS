@@ -1,6 +1,6 @@
 # Olá! Eu sou o Engels Antero 👋
 
-Desenvolvedor Back-End
+Desenvolvedor Front-End
 
 <div align="start">
   <a href="https://github.com/EngelsAS">
