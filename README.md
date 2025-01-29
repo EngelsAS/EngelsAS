@@ -19,11 +19,6 @@ Desenvolvedor Front-End
   <img height="30px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 
-### Atualmente com foco em:
-<div style="display: inline_block">
- <img height="30px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</div>
-
 ### Redes Sociais:
 <a href="https://www.linkedin.com/in/engels-antero-9a34b2226/">
   <img height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
